@@ -17,8 +17,8 @@
 
 ## 🖼 Скриншоты
 
-![Скриншот 1](screenshots/screen1.png)  
-![Скриншот 2](screenshots/screen2.png)  
+![Скриншот 1](docs/screen1.png)  
+![Скриншот 2](docs/screen2.png)  
 
 ---
 
