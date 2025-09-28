@@ -26,7 +26,7 @@
 
 1. Клонируйте репозиторий:  
 ```bash
-   git clone <your-repo-url>
+   git clone AiserKz/Clicker_game_Flutter
 ```
 2. Установите зависимости:
 
